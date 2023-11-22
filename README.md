@@ -1,14 +1,19 @@
-# veterinaria huelllitas
+# veterinaria huellitas
 ## tabla: servicio de estetica
-### crud servicio
-### bd_servicio
+### bdservicio
 
-![image](https://github.com/YizziaA/act_2/assets/143548810/f465a74a-e050-4f23-9b99-2c3e59137dca)
-![image](https://github.com/YizziaA/act_2/assets/143548810/cd3b5c5e-7204-40fd-83fd-056f8bc16a0e)
-![image](https://github.com/YizziaA/act_2/assets/143548810/84168749-6df7-484a-9a53-93462747c75a)
-![image](https://github.com/YizziaA/act_2/assets/143548810/673cafce-b31e-4589-bac0-f08fe2abb720)
-![image](https://github.com/YizziaA/act_2/assets/143548810/c8d79097-bcaf-4b13-a8f1-041fd5d03fbe)
-![image](https://github.com/YizziaA/act_2/assets/143548810/a81b7601-9bd7-43a1-8b84-7a5ce6a5943f)
+![image](https://github.com/YizziaA/act_2/assets/143548810/0339f66d-2561-435d-bdf4-16e8c748a8e2)
+## agregar una nueva cita 
+![image](https://github.com/YizziaA/act_2/assets/143548810/ef09c135-6b73-481a-8ab2-86bc3bcc4e54)
+![image](https://github.com/YizziaA/act_2/assets/143548810/b295f646-04b7-40e8-acc9-138df393e016)
+![image](https://github.com/YizziaA/act_2/assets/143548810/7990e80b-f099-4e21-90ec-bdcff1abbd31)
+## editar un campo
+![image](https://github.com/YizziaA/act_2/assets/143548810/c4684566-f3a8-4e26-9615-0a638dfff7ee)
+## eliminar dato
+![image](https://github.com/YizziaA/act_2/assets/143548810/bfc74151-0961-4030-96ee-2842797a4567)
+
+
+
 
 
 
