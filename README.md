@@ -11,8 +11,11 @@
 ![image](https://github.com/YizziaA/act_2/assets/143548810/c4684566-f3a8-4e26-9615-0a638dfff7ee)
 ## eliminar dato
 ![image](https://github.com/YizziaA/act_2/assets/143548810/bfc74151-0961-4030-96ee-2842797a4567)
+## base de datos
+![image](https://github.com/YizziaA/act_2/assets/143548810/9046500f-aecc-4dbf-ba20-4764ddf94beb)
 
-
+## tabla
+![image](https://github.com/YizziaA/act_2/assets/143548810/e5d6a57a-d3c2-4ae2-9e61-3b9fce483db1)
 
 
 
